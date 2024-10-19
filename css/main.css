@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+  
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.character { /* Changed from .fruit to .character */
+    border: 1px solid #ccc; /* Border for the box */
+    padding: 15px; /* Increased padding for more space */
+    margin: 10px; /* Space between character boxes */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth background change */
+    background-color: #f9f9f9; /* Light background color */
+}
+
+.character:hover {
+    background-color: #f9f9a9; /* Change background on hover */
+}
+
+h2 {
+    font-weight: 600;
+    cursor: pointer;
+}
+  
+.dropdown {
+    display: none; /* Initially hidden */
+    margin-top: 10px; /* Space above the dropdown */
+}
+  
+.dropdown.visible {
+    display: block; /* Show dropdown when visible */
+}
+  
+.highlight {
+    background-color: #f9f9a9; /* Highlight color when clicked */
+}
+  
+.method-container {
+    margin-bottom: 30px;
+}
+  
+.method-container h2 {
+    text-align: center;
+    color: #333;
+}

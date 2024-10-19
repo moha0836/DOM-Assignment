@@ -1,0 +1,58 @@
+export const data = [
+    {
+        uuid: "1",
+        name: "Tony Soprano",
+        role: "Boss",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "2",
+        name: "Carmela Soprano",
+        role: "Wife",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "3",
+        name: "Christopher Moltisanti",
+        role: "Capo",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "4",
+        name: "Paulie Gualtieri",
+        role: "Underboss",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "5",
+        name: "Silvio Dante",
+        role: "Consigliere",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "6",
+        name: "Dr. Jennifer Melfi",
+        role: "Therapist",
+        family: "N/A",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "7",
+        name: "Meadow Soprano",
+        role: "Daughter",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+    {
+        uuid: "8",
+        name: "A.J. Soprano",
+        role: "Son",
+        family: "Soprano",
+        origin: "New Jersey",
+    },
+];
